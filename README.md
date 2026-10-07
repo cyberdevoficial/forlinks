@@ -1,4 +1,4 @@
-# forlinks
+# forlinks https://forlinks.vercel.app/
 
 Página de links (link in bio) com painel de administração oculto. Next.js 15 (App Router), JavaScript, sem dependências de UI. Dados em Vercel Blob privado.
 
